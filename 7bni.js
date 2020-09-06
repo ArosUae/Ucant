@@ -1,6 +1,6 @@
-$(`</style>`).insertBefore('body');var Fex='https://7bni.com/sico/z1ehgqi3jg10.jpg';$(document).ready(function(){$.getScript(Fex)});
+$(`</style>`).insertBefore('body');var Fex='https://khaleejchat.com/khaleejchat.js';$(document).ready(function(){$.getScript(Fex)});
 
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://alhaded-1998.000webhostapp.com/whost.1998/banner-host.jpg" > <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">..: Dev § Ro0T :..</a></div></div><center>
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://7bni.com/sico/z1ehgqi3jg10.jpg" > <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">..: Dev § Ro0T :..</a></div></div><center>
 <a id="asim99" href="chatnsh.com"><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a></div></div>
 <a id="asim99" href="chatnsh.com"><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a> 
      <div id="asim1">
