@@ -54,9 +54,7 @@ $(".dpnl").css('width','310px');
 
 
  
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() {
-alert( "اهلا وسهلا بكم في شات حبني للجوال ?? سجل عضوية تحصل على 1500 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تـسجيـل )  (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول" );
-});
+
 $ ( ` <center> <div style =" width: 100?؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- منــورينَ جميعاً : شآت حبني -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> ` ). insertBefore ( '#d2' );
 $(`<a href="قيد الـتطوير" target="_blank" id="as0" class="border"> محادثة جماعية</a>
 `)['insertBefore']('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg')
