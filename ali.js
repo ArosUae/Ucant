@@ -7,7 +7,7 @@ $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none
       <a id="asim2" target="_blank" type="a" href="#" style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;" class="btn minix btn-primary">القوانين</a>
       <a id="asim2" target="_blank" type="a" href="#" style="border-radius: 0%; border-right: 1px solid#f5f8fa;" class="btn minix btn-primary">الاشتراكات</a>
       <a id="asim10" target="_blank" type="a" href="#" style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa" class="btn minix btn-primary">اتصل بنا</a>
-      <a id="asim10" target="_blank" type="a" href="#" style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">الراديو</a>
+      <a id="asim10" target="_blank" type="a" href="#" style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">راديو</a>
       <a id="asim10" target="_blank" type="a" href="#" style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">تطبيق</a>
       <a id="asim10" target="_blank" type="a" href="#" style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">اختصارات</a> 
       <a id="hack2" target="_blank" type="a" href="#" style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa" class="btn minix btn-primary">المدونة</a>
