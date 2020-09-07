@@ -1,14 +1,14 @@
 $(`<img src="https://chatcom.live/sico/1599478554274.gif" class="fr" style="width:100%;margin-top: 0px;">
 <a id="des3" href="" style="    text-align: right!important;transform:matrix(1, 0, 0, 1, -3, 0);border-radius: 24px;width:70%;margin:-172px 2px 2px;" class="fl mini  fa   fa-
- btn btn-primary">ÔÇÊ ÇáÎáíÌ | ÔÇÊ ÇáÚÑÈ | ÔÇÊ ÌæÇá</a>
+ btn btn-primary">Ø´Ø§Øª Ø§Ù„Ø®Ù„ÙŠØ¬ | Ø´Ø§Øª Ø§Ù„Ø¹Ø±Ø¨ | Ø´Ø§Øª Ø¬ÙˆØ§Ù„</a>
  <a id="des3" href="" style="transform:matrix(1, 0, 0, 1, -3, 0);border-radius: 24px;width:24%;margin:-138px 2px 2px;" class="fl mini  fa   fa-
- btn btn-primary">Ìäæä ÇáÚÇÔŞíä</a>
+ btn btn-primary">Ø¬Ù†ÙˆÙ† Ø§Ù„Ø¹Ø§Ø´Ù‚ÙŠÙ†</a>
  <a id="des3" href="https://chatcom.live/%D9%8A%20%D8%B4%D8%A7%D8%AA%20%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D9%82%D9%8A%D9%86%20%D9%86%D8%AA%D9%85%D9%86%D8%A7%20%D9%84%D9%83%20%D9%82%D8%B6%D8%A7%D8%A1%20%D9%88%D9%82%D8%AA%D9%8D%20%D9%85%D9%85%D8%AA%D8%B9%F0%9F%8C%B9" style="transform:matrix(1, 0, 0, 1, -3, 0);border-radius: 24px;width:27%;margin:-104px 2px 2px;" class="fl mini  fa   fa-
- btn btn-primary">ÊØÈíŞ</a>
+ btn btn-primary">ØªØ·Ø¨ÙŠÙ‚</a>
  <a id="des3" href="https://wa.me/message/KDPCVFFHYEG7A1" style="transform:matrix(1, 0, 0, 1, -3, 0);border-radius: 24px;width:30%;margin:-69px 2px 2px;" class="fl mini  fa   fa-
- btn btn-primary">æÇÊÓÇÈ</a>
+ btn btn-primary">ÙˆØ§ØªØ³Ø§Ø¨</a>
  <a id="des3" href="https://chatcom.live/rules.html" style="transform:matrix(1, 0, 0, 1, -3, 0);border-radius: 24px;width:33%;margin:-34px 2px 2px;" class="fl mini  fa   fa-
- btn btn-primary">ÇáŞæÇäíä</a>
+ btn btn-primary">Ø§Ù„Ù‚ÙˆØ§Ù†ÙŠÙ†</a>
 
 
 `).insertBefore('.nav-tabs');
@@ -18,7 +18,7 @@ $('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '1px solid #1a90
 $('.room.borderg.hand.nosel.fl').css({'margin': '1px 0',borderRight: '1px solid #1a90a5',borderLeft: '1px solid #1a90a5',borderTop: '1px solid #4F565E',borderBottom: '1px solid #4F565E',paddingTop: '2px',borderRadius: '5px'});
 $(".corner.fa.fa-user.label.label-primary.fr.uc").css("border-radius","5px")
 
-$("[data-target=#wall]").attr('title','   ãÓÜÜÜÇÍå ÍÜÜÑå áÃÈÜÜÏÂÚÇÊßÜÜã            ')
+$("[data-target=#wall]").attr('title','   Ù…Ø³Ù€Ù€Ù€Ø§Ø­Ù‡ Ø­Ù€Ù€Ø±Ù‡ Ù„Ø£Ø¨Ù€Ù€Ø¯Ø¢Ø¹Ø§ØªÙƒÙ€Ù€Ù…            ')
 
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.nav-tabs').addClass('fl').css('width','100%');
@@ -54,15 +54,15 @@ $(".label-primary").css("border-radius","3px")
 $('.nav-tabs').addClass('fl').css('width','100%');
 Tsend_=Tsend;
 reqlikes=10;
-Tsend=function(){if(getuser(myid).rep<reqlikes){alert('áÅ íãßäß ÇáßÊÇÈÉ ÈÇáÚÇã íÊØáÈ ãäß ÇáÍÕæá Úáì áÇíßÇÊ'+reqlikes+' '); return;}else{Tsend_();}}
+Tsend=function(){if(getuser(myid).rep<reqlikes){alert('Ù„Ø¥ ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù„ÙƒØªØ§Ø¨Ø© Ø¨Ø§Ù„Ø¹Ø§Ù… ÙŠØªØ·Ù„Ø¨ Ù…Ù†Ùƒ Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ù„Ø§ÙŠÙƒØ§Øª'+reqlikes+' '); return;}else{Tsend_();}}
 
 sendpic_=sendpic;
 reqlikes=10;
-sendpic=function(){if(getuser(myid).rep<reqlikes){alert('áÅ íãßäß ÊÛíÑ ÕæÑÊß íÊØáÈ ãäß ÇáÍÕæá Úáì áÇíßÇÊ '+reqlikes+''); return;}else{sendpic_();}}
+sendpic=function(){if(getuser(myid).rep<reqlikes){alert('Ù„Ø¥ ÙŠÙ…ÙƒÙ†Ùƒ ØªØºÙŠØ± ØµÙˆØ±ØªÙƒ ÙŠØªØ·Ù„Ø¨ Ù…Ù†Ùƒ Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ù„Ø§ÙŠÙƒØ§Øª '+reqlikes+''); return;}else{sendpic_();}}
 
 setprofile_=setprofile;
 reqlikes=10;
-setprofile=function(){if(getuser(myid).rep<reqlikes){alert('áÇ íãßäß ÍİÙ ÇáÃÚÏÇÏÇÊ íÊØáÈ ãäß ÇáÍÕæá Úáì áÇíßÇÊ '+reqlikes+''); return;}else{setprofile_();}}
+setprofile=function(){if(getuser(myid).rep<reqlikes){alert('Ù„Ø§ ÙŠÙ…ÙƒÙ†Ùƒ Ø­ÙØ¸ Ø§Ù„Ø£Ø¹Ø¯Ø§Ø¯Ø§Øª ÙŠØªØ·Ù„Ø¨ Ù…Ù†Ùƒ Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ù„Ø§ÙŠÙƒØ§Øª '+reqlikes+''); return;}else{setprofile_();}}
 $("div#tlogins input").attr("maxlength",13),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
 $(".ubnr").remove(); 
 $(".fr.co").hide();
