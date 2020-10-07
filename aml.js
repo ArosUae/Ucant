@@ -1,4 +1,4 @@
-$(`<img src="/sico/1601465914161.gif" class="fr" style="width:100%;margin-right: 2px;">
+$(`<img src="https://k.top4top.io/p_162489ex10.jpg" class="fr" style="width:100%;margin-right: 2px;">
 <a id="ROOT" href="" style="border-radius: 24px;width:23%;margin:2px;" class="fl mini  fa  fa-graduation-cap btn btn-primary"> الفعاليات</a>
 <a id="ROOT" style="border-radius: 24px;width:23%;margin:2px;" class="fl mini  fa   fa-star btn btn-default" href="">القوانين</a>
 <a id="ROOT" style="border-radius: 24px;width:27%;margin:2px;" class="fl mini  fa fa-graduation-cap btn btn-primary" href="">الإشتركات  
