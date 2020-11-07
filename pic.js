@@ -1,0 +1,2 @@
+$(`<img tabindex="https://w0j.net/sico/1604543203978.jpg" class="al120 fl " style="margin-left: -4px; padding:5px; width:40px;margin-top: -4px;" src="https://w0j.net/sico/1604543203978.jpg" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="https://w0j.net/sico/1604543203978.jpg" class="fl" style="margin-right: 2px; width: 25px;">');
