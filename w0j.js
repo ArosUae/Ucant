@@ -1,4 +1,4 @@
-$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> شـآت وهـج للجوال : <a href='https://www.w0j.net/'></a></div>").insertAfter($(".loginstat"));
+$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:2px;'> شـآت وهـج للجوال : <a href='https://www.w0j.net/'>تصميم و ارشفه</a></div>").insertAfter($(".loginstat"));
 $('.checkbox label')['html'](`<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">`);
 $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 $(`<link rel="stylesheet" type="text/css" href="">
