@@ -2,7 +2,7 @@ $("<div class='fr borderg' style='padding:2px;background-color:white;float:left;
 $('.checkbox label')['html'](`<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">`);
 $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 $(`<link rel="stylesheet" type="text/css" href="">
-  <link href="https://rawcdn.githack.com/ArosUae/Ucant/bfae3043f528a2faafe87ac72619f761689abcff/Ohh.css" rel="stylesheet" type="text/css">
+  <link href="https://rawcdn.githack.com/ArosUae/Ucant/7a4a3e5a0f28336223f841f4fcbb4dcb2053e20c/whj.css" rel="stylesheet" type="text/css">
   <style>
 
 input#stealth {
