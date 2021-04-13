@@ -1,0 +1,1 @@
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="رابط الصوره" class="fl" style="margin-right: 2px; width: 25px;">');
