@@ -1,4 +1,4 @@
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://7bni.com/sico/z1ehgqi3jg10.jpg" > <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">..: Sa(u)di :..</a></div></div><center>
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://www.7lmc.com/up/1f3rh1h0c10.gif" > <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">..: Sa(u)di :..</a></div></div><center>
 <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a></div></div>
 <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a> 
      <div id="asim1">
